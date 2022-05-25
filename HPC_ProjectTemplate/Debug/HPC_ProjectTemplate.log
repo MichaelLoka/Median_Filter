@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\ASU FCIS 2023\Year 3\Semester 2\High Preformance Computing\Project\Median-Filter-master\HPC_ProjectTemplate\Source.cpp(283,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Generating Code...
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> D:\ASU FCIS 2023\Year 3\Semester 2\High Preformance Computing\Project\Median-Filter-master\Debug\HPC_ProjectTemplate.exe
